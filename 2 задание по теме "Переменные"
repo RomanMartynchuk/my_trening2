@@ -1,0 +1,5 @@
+finished_homework=12
+total_hours=1.5
+course_name="Python"
+average_time=total_hours/finished_homework
+print("Курс: "+course_name+", всего задач: ",finished_homework,", затрачено часов: ",total_hours,", среднее время выполнения: ",average_time,'часа.')
